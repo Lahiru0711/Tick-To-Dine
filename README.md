@@ -18,6 +18,9 @@ It's a food-themed application. Users may effortlessly engage with this app and 
 <br/>
 
 
+  Likedin Video :- https://www.linkedin.com/posts/lahiru-indusara_android-meal-mobile-activity-6929094945651765248-VbUI?utm_source=share&utm_medium=member_desktop
+
+
 
 Following are the memebres that are contribute to the project
       <table>
@@ -41,9 +44,6 @@ Following are the memebres that are contribute to the project
           <td> Amarathunga A A P S  </td>
           <td> IT20608354 </td>
         </tr>
-
 <body/>
   </head>
-  Likedin Video :- https://www.linkedin.com/posts/lahiru-indusara_android-meal-mobile-activity-6929094945651765248-VbUI?utm_source=share&utm_medium=member_desktop
-
 </html>
