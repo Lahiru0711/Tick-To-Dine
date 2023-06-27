@@ -21,7 +21,7 @@
           <td> IT20299934 </td>
         </tr>
         <tr>
-          <td> A A P S Amarathunga </td>
+          <td> Amarathunga A A P S  </td>
           <td> IT20608354 </td>
         </tr>
   </head>
