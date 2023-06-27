@@ -41,9 +41,8 @@ Following are the memebres that are contribute to the project
           <td> Amarathunga A A P S  </td>
           <td> IT20608354 </td>
         </tr>
-<br/>
 Likedin Video :- https://www.linkedin.com/posts/lahiru-indusara_android-meal-mobile-activity-6929094945651765248-VbUI?utm_source=share&utm_medium=member_desktop
 
-        
+<body/>
   </head>
 </html>
