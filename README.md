@@ -10,10 +10,8 @@
         </tr>
         <tr>
           <td> J D L Indusara </td>
-          <td> IT2060200 </td>
+          <td> IT20602000 </td>
         </tr>
-     
-      </table>
         
   </head>
 </html>
