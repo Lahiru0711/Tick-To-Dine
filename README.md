@@ -3,6 +3,12 @@
 <html>
   <head>
     <body>
+
+      <p> 𝙎𝙇𝙄𝙄𝙏 - 𝙎𝙚𝙘𝙤𝙣𝙙 𝙮𝙚𝙖𝙧 𝙎𝙚𝙘𝙤𝙣𝙙 𝙎𝙚𝙢𝙚𝙨𝙩𝙚𝙧 𝙈𝘼𝘿 𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙋𝙧𝙤𝙪𝙙𝙡𝙮 𝙥𝙧𝙚𝙨𝙚𝙣𝙩 𝙮𝙤𝙪 Tick to Dine
+----------------------------------------------------------------------
+It's a food-themed application. Users may effortlessly engage with this app and buy and have their meals. Our software allows customers to order and takeaway meals swiftly. ----------------------------------------------------------------------
+(* This promo is for academic purposes only *)
+#Android #Meal #Mobile #androidapp #facultyofcomputing 𝙎𝙚𝙘𝙤𝙣𝙙 𝙮𝙚𝙖𝙧 𝙎𝙚𝙘𝙤𝙣𝙙 𝙎𝙚𝙢𝙚𝙨𝙩𝙚𝙧 𝙈𝘼𝘿 𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙋𝙧𝙤𝙪𝙙𝙡𝙮 𝙥𝙧𝙚𝙨𝙚𝙣𝙩 𝙮𝙤𝙪 TICK TO DINE 𝘿𝙚𝙫𝙚𝙡𝙤𝙥 𝙗𝙮 𝙏𝙚𝙖𝙢 TECH HUNTERS</p>
       <table>
         <tr>
         <th> Member Name </th>
