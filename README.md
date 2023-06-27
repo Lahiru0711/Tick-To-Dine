@@ -13,11 +13,11 @@
           <td> IT20602000 </td>
         </tr>
         <tr>
-          <td> Kodikara K.K.N.I  </td>
+          <td> Kodikara K K N I  </td>
           <td> IT20600716 </td>
         </tr>
         <tr>
-          <td> Jayasanka P.G.C </td>
+          <td> Jayasanka P G C </td>
           <td> IT20299934 </td>
         </tr>
         <tr>
